@@ -3,7 +3,7 @@
 <div align="left" style="display: inline-block"><br>
     <a href="https://github.com/wesleimoreira">
         <img height="178em" width="49%" src="https://github-readme-stats.vercel.app/api?username=wesleimoreira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-        <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleimoreira&layout=compact&langs_count=7&theme=dark"/>
+        ![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true](https://github-readme-stats.vercel.app/api/top-langs/?username=wesleimoreira&layout=compact&langs_count=7&theme=dark))        
     </a>
 </div>
 
@@ -19,7 +19,3 @@
     <img align="center" alt="MySql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>  
     <img align="center" alt="SqlServer" src="https://img.shields.io/badge/%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>   
 </div>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wesleimoreira&hide_progress=true)
-
-

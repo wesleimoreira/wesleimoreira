@@ -1,9 +1,8 @@
 ### Olá! eu sou Weslei Moreira 👋
 
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleimoreira&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleimoreira&show_icons=true&theme=dark" />
-</picture>
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
 ### Tecnologias do dia a dia 🔥
 
 <div style="display: inline-block;"> <br>

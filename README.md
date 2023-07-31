@@ -1,6 +1,11 @@
 ### Olá! eu sou Weslei Moreira 👋
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+<div align="left" style="display: inline-block"><br>
+    <a href="https://github.com/wesleimoreira">
+        <img height="178em" width="49%" src="https://github-readme-stats.vercel.app/api?username=wesleimoreira&show_icons=true&locale=pt-BR&theme=react"/>
+        <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleimoreira&layout=donut&locale=pt-BR&theme=react"/>        
+    </a>
+</div>
 
 ### Tecnologias do dia a dia 🔥
 

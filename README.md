@@ -19,3 +19,7 @@
     <img align="center" alt="MySql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>  
     <img align="center" alt="SqlServer" src="https://img.shields.io/badge/%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>   
 </div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wesleimoreira&hide_progress=true)
+
+

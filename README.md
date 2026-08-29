@@ -20,6 +20,14 @@ Plataforma multi-tenant completa: controle de veículos, motoristas, CNH e docum
 
 ---
 
+**[CRM Imobiliária](https://github.com/wesleimoreira/CrmImobiliaria)** — Sistema completo para imobiliárias em **.NET 10**
+
+Cobertura integral do ciclo de negócio: comercial, locação, loteamentos e comissões. 17 módulos integrados, arquitetura robusta com Clean Architecture e DDD, hospedagem própria via Docker, sem mensalidades.
+
+`Clean Architecture` · `DDD` · `CQRS` · `Blazor` · `MSSQL Server` · `Entity Framework` · `Docker` · `Caddy`
+
+---
+
 ### 🔧 Tecnologias
 
 **Linguagens e frameworks**
